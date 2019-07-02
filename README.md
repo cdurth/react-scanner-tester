@@ -1,3 +1,6 @@
+# React Scanner Tester
+This application is for testing hardware barcode scanners. It is also useful for testing on Android Barcode scanners to ensure datawedge support for mobile SPA/PWA. FYI, the lowend Zebra TC20 Wedge has some properity software that masks the keyevent :(
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
